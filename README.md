@@ -7,6 +7,8 @@
 *Această **lucrare de licență** a fost realizată integral de mine pe parcursul a câteva luni, în timpul facultății, lucrând individual în afara orelor universitare. Am folosit o combinație de resurse online și cărți de specialitate pentru a mă ghida și inspira în dezvoltarea procesului. Scopul principal a fost să acumulez experiență practică prin explorarea și aplicarea diverselor tehnici și informații pe care le-am întâlnit în timpul cercetării mele. Menționez că **codul sursă** pentru acest **proiect de licență** este postat pe GitHub, însă este setat pe privat pentru a preveni orice formă de plagiat, deoarece întreaga lucrare este rezultatul muncii și dedicării mele personale. La finalul studiilor de licență, această lucrare a fost notată cu **nota maximă de 10**, atât la proba practică, cât și la cea orală.*
 *******************************************************
 
+https://github.com/user-attachments/assets/d4576439-2568-471b-b0b6-fd6f3f0e2abb
+
 ---
 I developed the **"BLISS"** app as part of my bachelor’s thesis, a **mobile application** designed to optimize personal care routines, with a specific focus on skincare. This app is the result of my personal research and experience in the field, offering users a **fully customized routine** based on the information they provide.
 
