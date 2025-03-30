@@ -1,4 +1,4 @@
-# BLISS - Bachelor Thesis | Maria Jinga
+# BLISS - Bachelor Thesis - Android Studio - Java | Maria Jinga
 
 *******************************************************
 ### *IMPORTANT*
